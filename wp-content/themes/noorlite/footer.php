@@ -1,0 +1,25 @@
+<?php
+/**
+ * The template for displaying the footer
+ * @package Noor
+ * @subpackage noor
+ * @since 1.0
+ * @version 0.1
+ */
+
+?>
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container">
+			<?php get_template_part( 'template-parts/footer', 'widgets' ); ?>
+		</div>
+		<div class="clearfix"></div>
+		<div class="copyright"> 
+			<div class="container">
+				<?php get_template_part( 'template-parts/site', 'info' ); ?>
+			</div>
+		</div>
+	</footer>
+
+<?php wp_footer(); ?>
+</body>
+</html>
