@@ -723,3 +723,82 @@ Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"titl
 Complete 
 Batch Process Started!
 Astra Sites - Importing Images for Blog name 'ဒိုးစို့ ' (1)
+---- Processing Images from Widgets -----
+BATCH - SKIP Image - {from filter} - http://doesoh.test/wp-content/uploads/2017/09/spacewhite-logo-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 30
+Post ID: 26
+Post ID: 1090
+Post ID: 1091
+Post ID: 1092
+---- Processing Images from Widgets -----
+BATCH - SKIP Image - {from filter} - http://doesoh.test/wp-content/uploads/2017/09/spacewhite-logo-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 30
+Post ID: 26
+Post ID: 1090
+Post ID: 1091
+Post ID: 1092
+---- Processing Images from Widgets -----
+BATCH - SKIP Image - {from filter} - http://doesoh.test/wp-content/uploads/2017/09/spacewhite-logo-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 30
+Post ID: 26
+Post ID: 1090
+Post ID: 1091
+Post ID: 1092
+---- Processing Images from Widgets -----
+BATCH - SKIP Image - {from filter} - http://doesoh.test/wp-content/uploads/2017/09/spacewhite-logo-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 30
+Post ID: 26
+Post ID: 1090
+Post ID: 1091
+Post ID: 1092
+---- Processing Images from Widgets -----
+BATCH - SKIP Image - {from filter} - http://doesoh.test/wp-content/uploads/2017/09/spacewhite-logo-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 30
+Post ID: 26
+Post ID: 1090
+Post ID: 1091
+Post ID: 1092
+---- Processing Images from Widgets -----
+BATCH - SKIP Image - {from filter} - http://doesoh.test/wp-content/uploads/2017/09/spacewhite-logo-free-img.png - Filter name `astra_sites_image_importer_skip_image`.
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/car-repair-elementor/wp-content/uploads/sites/88/2017/10/Footer-Logo-free-img.png
+BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+BATCH - FAIL Image {Error: Failed wp_remote_retrieve_body} - https://websitedemos.net/construction-free/wp-content/uploads/sites/35/2017/09/construction-logo2-free.png
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing MISC ----
+Post ID: 30
+Post ID: 26
+Post ID: 1090
+Post ID: 1091
+Post ID: 1092
+Batch Process Complete!
